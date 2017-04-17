@@ -10,7 +10,9 @@
  *
  * Thanks to Indigo744
  *
+ 
  */
+ 
 (function (factory) {
     if (typeof exports === 'object') {
         // CommonJS
